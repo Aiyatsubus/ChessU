@@ -1,0 +1,12 @@
+.vs/**
+Assets/**
+Library/**
+Logs/**
+Mono/**
+Packages/**
+ProjectSettings/**
+UnityCrashHandler64.exe
+UnityPackageManager/**
+webGL/**
+obj/**
+WinPixEventRuntime.dll
